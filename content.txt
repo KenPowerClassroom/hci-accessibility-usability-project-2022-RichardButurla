@@ -1,0 +1,13 @@
+What is this report about? This report is about the accesibility of blackboard in terms of usability heuristics. 
+Blackboard is a website used by schools and colleges to help improve college life for both lecturers/teachers and students.
+On blackboard you can check many things. You can check Posts, Updates on events like returned assignments, Your marks in a module/subject, and a calender.
+We will soon see all the positives and negatives and investigate this website in terms of usability and heuristics.
+
+Usability Assessment:
+1)Consistency: Blackboard has a consistency of color. It awlays has white,black,gray and blue colors.
+The layout of the website always looks like white board or page, ironic since it is named blackboard.(this is a heuristic too).
+The layout of a white background and boxes with blue headings is consistent. The blue color indicating you are about to travel to a more information concentrated page.
+When you do click on a blue header on the home page, you are sent to that subjects in depth info. The headings of anything to do with the subject like assessments and labs,
+are now in a black box with gray/white text. There are white boxes with "To Do" or "Whats New" headings and blue headings again to go more in depth in those boxes.
+Once you click on one of the headers inside the black box, you then are met with a simple scroll down page of information. 
+The website is always consistent with its colors, prompts, menus, boxes and layout.
