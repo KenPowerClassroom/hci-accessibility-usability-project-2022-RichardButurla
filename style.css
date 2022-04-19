@@ -65,3 +65,14 @@ li a:hover {
     float: right;
     padding-left: 20%;
 }
+#activity-text{
+    padding-top: 10px;
+    float: left;
+}
+h4{
+    padding-top: 1%;
+    color: yellow;
+    text-align: center;
+    font-size: 35px;
+    padding-left: 2%;
+}
