@@ -82,13 +82,19 @@ h4{
     padding-right: 40%
 }
 #prototype-photos{
-    width: 70%;
+    width: 90%;
     float: left;
-    padding-left: 20%;
+    padding-left: 5%;
 }
 #prototype-mini-photos{
     padding-top: 2%;
     width: 20%;
     float: left;
     padding-left: 20%;
+}
+#accessibility-photo{
+    padding-top: 2%;
+    width: 20%;
+    float: left;
+    padding-left: 37%;
 }
